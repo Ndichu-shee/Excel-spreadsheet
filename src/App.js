@@ -4,7 +4,7 @@ import Spread from '.components/Table'
 
 const App = () =>(
   <div style ={{width:'max-content'}}>
-    <Table x={4}/>
+    <Spread x={4}/>
   </div>
 )
 
